@@ -7,15 +7,3 @@ is Rabbit, 6A is cat ) . If the player places it in the wrong grid, then one poi
 the other player has to place it in the grid till the right grid is found. The game continues till all
 the words are placed correctly. Do not use Random seed and select two best solutions after 10
 iterations. Print the final variable-value details.
-# # # # R # # # #
-# # # # A # # # #
-# # # # B # # # #
-# # # # B # # # #
-H # # # I # # # #
-O # C A T # # # #
-R # A # # # D O G
-S # M # # # O # #
-E L E P H A N T #
-# # L # # # K # #
-# # # # # # E # #
-# M O N K E Y # #
